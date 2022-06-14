@@ -1,6 +1,9 @@
 ﻿global using API.Database;
 global using API.Database.Entities;
 
+global using API.DTO.Response;
+global using API.DTO.Request;
+
 global using Microsoft.EntityFrameworkCore;
 
 global using System;

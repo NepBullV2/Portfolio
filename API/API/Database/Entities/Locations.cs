@@ -10,7 +10,7 @@
         public int Postal { get; set; }
 
         [Required]
-        [Column(TypeName = "nvarchar(50)")]
+        [Column(TypeName = "varchar(50)")]
         public string City { get; set; }
     }
 }

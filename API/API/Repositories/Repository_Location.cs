@@ -1,6 +1,6 @@
 ﻿namespace API.Repositories
 {
-    public class Repository_Location : Interface_Locations
+    public class Repository_Location : Repository_Interface_Locations
     {
         private readonly Context _context;
 
