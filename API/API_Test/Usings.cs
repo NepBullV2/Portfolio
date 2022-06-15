@@ -1,6 +1,8 @@
 global using API.Database;
 global using API.Database.Entities;
 global using API.Repositories;
+global using API.Services;
+global using API.Interface;
 
 global using Microsoft.EntityFrameworkCore;
 global using Microsoft.EntityFrameworkCore.InMemory;
